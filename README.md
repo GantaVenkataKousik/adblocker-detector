@@ -1,0 +1,1 @@
+This was the repo of ADBLOCK DETECTOR made using html,css and js
